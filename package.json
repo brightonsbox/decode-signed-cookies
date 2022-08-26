@@ -1,5 +1,5 @@
 {
-  "name": "decode-signed-cookies",
+  "name": "@brightonsbox/decode-signed-cookies",
   "version": "0.1.0",
   "description": "A CLI tool for decoding signed cookies",
   "main": "bin/index.js",
